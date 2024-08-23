@@ -1,0 +1,12 @@
+{
+  "name": "Ryan nguyen",
+  "symbol": "RYN",
+  "uri": "https://example.com/metadata-details.json",
+  "seller_fee_basis_points": 500,
+  "creators": [
+    {
+      "address": "2LWFrfBKUWK6GV1VNG4KvMm7ChrJ8WoQVF38tE7Q7v29",
+      "share": 100
+    }
+  ]
+}

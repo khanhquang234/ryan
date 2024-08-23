@@ -1,0 +1,13 @@
+{
+  "name": "Ryan nguyen",
+  "symbol": "RYN",
+  "uri": "https://example.com/metadata-details.json",
+  "image": "https://example.com/token-avatar.png",
+  "description": "This is an amazing token that does amazing things.",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Special"
+    }
+  ]
+}
